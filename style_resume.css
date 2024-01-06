@@ -7,14 +7,14 @@ body{
     font-style: italic;
     font-size: 20px;
     padding: 20px;
-    float:none;
+    
 }
 
 .header h1 {
     font-size: 50px;
     font-style: bold;
     text-align: center;
-    float:none;
+    
 }
 .header{
     height:420px;
@@ -59,42 +59,3 @@ a{
     width: 130px;
 }
 }
-
-a{
-    font-size: 15px;
-    font-style: italic;
-    margin-left: 9px;
-}
-.section{
-    padding: 10px;
-    text-align: left;
-    
-}
-.section h2{
-    text-decoration: underline;
-    padding-bottom: 9px;
-}
-.content{
-    font-style:italic;
-    font-size: 20px;
-}
-.experience{
-    font-style: italic;
-    font-size: 20px;
-}
-#details{
-    font-style: italic;
-    font-size: 20px;
-}
-@media screen and (max-width: 600px) {
-
-.header .image img{
-    height: 50px;
-    width: 60px;
-}
-}
-/*@media screen and (max-width: 600px) {
-.resume {
-    margin: 10px;
-}
-}*/
