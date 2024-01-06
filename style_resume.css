@@ -52,6 +52,13 @@ a{
     font-style: italic;
     font-size: 20px;
 }
+@media screen and (max-width: 600px) {
+
+.header .image img{
+    height: 50px;
+    width: 60px;
+}
+}
 /*@media screen and (max-width: 600px) {
 .resume {
     margin: 10px;
